@@ -44,4 +44,4 @@ The application provides a menu-driven interface with the following options:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/IT-Support-Ticket-System.git
+git clone https://github.com/jhigley6303/ITSupportTicketSystem.git
