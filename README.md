@@ -1,8 +1,8 @@
-# =================================
- #    IT SUPPORT TICKET SYSTEM
-# =================================
+ =================================
+ ###    IT SUPPORT TICKET SYSTEM
+ =================================
 
-# IT Support Ticket System
+
 
 A command-line IT support ticket management application built with Python. The application allows users to create, view, search, update, and close support tickets while tracking ticket statistics.
 
