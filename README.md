@@ -45,3 +45,49 @@ The application provides a menu-driven interface with the following options:
 
 ```bash
 git clone https://github.com/jhigley6303/ITSupportTicketSystem.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd IT-Support-Ticket-System
+```
+4. Run the application:
+python main.py
+
+### Ticket Information
+
+Each support ticket includes:
+
+- Ticket ID
+- User
+- Department
+- Issue Category
+- Description
+- Priority
+- Status
+- Assigned Technician
+
+### Input Validation
+
+The application validates user input for:
+- Priority: Low, Medium, or High
+- Status: Open, In Progress, or Closed
+- Valid ticket IDs when searching, updating, or closing tickets
+- Valid menu selections
+
+### Future Improvements
+
+Potential future improvements include:
+- Persistent ticket storage using JSON
+- Database integration
+- User authentication
+- Additional ticket categories
+- Advanced reporting and analytics
+- Graphical user interface (GUI)
+- Web-based version
+
+### Author
+
+Jamie Pascual
+
+IT / Systems & Support Portfolio
