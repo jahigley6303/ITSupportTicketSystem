@@ -52,8 +52,9 @@ git clone https://github.com/jhigley6303/ITSupportTicketSystem.git
 cd IT-Support-Ticket-System
 ```
 4. Run the application:
+```bash
 python main.py
-
+```
 ### Ticket Information
 
 Each support ticket includes:
